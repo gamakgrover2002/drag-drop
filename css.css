@@ -1,0 +1,26 @@
+#div1 {
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+  border-color: darkblue;
+  border-width: 3px;
+  
+    
+  }
+  img{
+    width: 140px;
+    height: 140px;
+  }
+  #container {
+  background-color: orange;
+display: flex;
+width:700px; 
+margin:0 auto;
+margin-top: 30vh;
+
+}
+body{
+  background-image: url(https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg);
+  
+}
